@@ -1,0 +1,3 @@
+Burn.Blue deploy marker
+UTC: 20260628T135545Z
+Purpose: verify Cloudflare Pages is deploying Hugo public/ output, not raw source templates.
