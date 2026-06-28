@@ -1,9 +1,9 @@
 ---
 title: "Website Maintenance"
-description: "Website maintenance for St. Louis businesses, including updates, monitoring, bug fixes, backups, and iterative site improvements."
+description: "Website maintenance for Union, MO businesses, including updates, monitoring, bug fixes, backups, and iterative site improvements."
 icon: "🛡️"
 weight: 90
-kicker: "St. Louis service"
+kicker: "Union, MO service"
 ---
 
 ## Keep the site working after launch
@@ -19,8 +19,8 @@ A website is a living system. Burn.Blue can help monitor, update, refine, and ex
 ### Best fit
 Businesses that want a reliable partner for ongoing website care.
 
-### Serving St. Louis and the surrounding area
-Burn.Blue works with organizations in St. Louis, St. Louis County, St. Charles, and the Metro East that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
+### Serving Union, MO and the surrounding area
+Burn.Blue works with organizations in Union, Franklin County, Washington, Sullivan, and nearby Missouri communities that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

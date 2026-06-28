@@ -4,10 +4,10 @@ title: "Burn.Blue"
 summaryLength: 28
 enableRobotsTXT: true
 params:
-  description: "Burn.Blue provides St. Louis web design, web development, SEO, AI assistant setup, and business automation for local companies that want faster digital systems."
+  description: "Burn.Blue provides Union, MO web design, web development, SEO, AI assistant setup, and business automation for local companies that want faster digital systems."
   author: "Burn.Blue"
   email: "hello@burn.blue"
-  tagline: "St. Louis web design, web apps, AI assistants, and business automation for teams ready to move faster."
+  tagline: "Union, MO web design, web apps, AI assistants, and business automation for teams ready to move faster."
 menus:
   main:
     - name: "Services"

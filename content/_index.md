@@ -1,4 +1,4 @@
 ---
 title: "Burn.Blue"
-description: "St. Louis web design, development, SEO, AI assistant setup, and business automation services from Burn.Blue for growing Missouri and Metro East teams."
+description: "Union, MO web design, development, SEO, AI assistant setup, and business automation services from Burn.Blue for growing Franklin County teams."
 ---

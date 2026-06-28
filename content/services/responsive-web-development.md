@@ -1,9 +1,9 @@
 ---
 title: "Responsive Web Development"
-description: "Responsive web development for St. Louis companies using fast, semantic Hugo and frontend builds that work across every screen size."
+description: "Responsive web development for Union, MO companies using fast, semantic Hugo and frontend builds that work across every screen size."
 icon: "💻"
 weight: 20
-kicker: "St. Louis service"
+kicker: "Union, MO service"
 ---
 
 ## Fast pages built on strong fundamentals
@@ -19,8 +19,8 @@ A professional site should feel instant, stable, and easy to maintain. Burn.Blue
 ### Why it matters
 Fast, reliable pages improve search visibility, reduce bounce rates, and make every campaign more effective.
 
-### Serving St. Louis and the surrounding area
-Burn.Blue works with organizations in St. Louis, St. Louis County, St. Charles, and the Metro East that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
+### Serving Union, MO and the surrounding area
+Burn.Blue works with organizations in Union, Franklin County, Washington, Sullivan, and nearby Missouri communities that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

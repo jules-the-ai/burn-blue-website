@@ -1,9 +1,9 @@
 ---
 title: "Performance Optimization"
-description: "Performance optimization for St. Louis websites, including Core Web Vitals, image optimization, asset tuning, and faster customer experiences."
+description: "Performance optimization for Union, MO websites, including Core Web Vitals, image optimization, asset tuning, and faster customer experiences."
 icon: "⚡"
 weight: 70
-kicker: "St. Louis service"
+kicker: "Union, MO service"
 ---
 
 ## Speed is a growth feature
@@ -19,8 +19,8 @@ Slow pages cost attention, trust, and revenue. Burn.Blue audits and improves fro
 ### Outcome
 A faster site that supports SEO, ad campaigns, and better user experience.
 
-### Serving St. Louis and the surrounding area
-Burn.Blue works with organizations in St. Louis, St. Louis County, St. Charles, and the Metro East that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
+### Serving Union, MO and the surrounding area
+Burn.Blue works with organizations in Union, Franklin County, Washington, Sullivan, and nearby Missouri communities that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).
