@@ -15,6 +15,7 @@
   <meta name="geo.region" content="US-MO">
   <meta name="geo.placename" content="Union, Missouri">
   <meta property="og:locale" content="en_US">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"ProfessionalService","name":"Burn.Blue","url":"{{ .Site.BaseURL }}","email":"hello@burn.blue","description":"{{ .Site.Params.description }}","address":{"@type":"PostalAddress","addressLocality":"Union","addressRegion":"MO","addressCountry":"US"},"areaServed":[{"@type":"City","name":"Union"},{"@type":"AdministrativeArea","name":"Franklin County"},{"@type":"City","name":"Washington"},{"@type":"AdministrativeArea","name":"nearby Missouri communities"}],"serviceType":["Union, MO web design","Web development","Local SEO","AI assistant setup","Business automation","Ecommerce development"]}</script>
