@@ -1,9 +1,9 @@
 ---
 title: "Hugo CMS Implementation"
-description: "Structured Hugo content models and editing workflows that make service pages, landing pages, and articles easier to maintain."
+description: "Hugo CMS implementation for St. Louis businesses that need fast service pages, landing pages, and maintainable content workflows."
 icon: "📝"
 weight: 80
-kicker: "Burn.Blue service"
+kicker: "St. Louis service"
 ---
 
 ## A content system your team can keep using
@@ -18,6 +18,9 @@ Burn.Blue uses Hugo to create fast sites with clean content structure. Pages liv
 
 ### Why Hugo
 Hugo is fast, reliable, portable, and well suited for professional marketing sites that do not need heavy database infrastructure.
+
+### Serving St. Louis and the surrounding area
+Burn.Blue works with organizations in St. Louis, St. Louis County, St. Charles, and the Metro East that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

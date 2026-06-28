@@ -1,9 +1,9 @@
 ---
 title: "SEO and Content Strategy"
-description: "Search-friendly site architecture, metadata, schema, and service content designed to attract qualified visitors."
+description: "Local SEO and content strategy for St. Louis businesses, including service pages, metadata, schema, internal links, and search-focused copy."
 icon: "🔎"
 weight: 30
-kicker: "Burn.Blue service"
+kicker: "St. Louis service"
 ---
 
 ## Content that helps search engines and humans understand your value
@@ -18,6 +18,9 @@ SEO is not just keywords. It is clear pages, useful answers, internal links, tec
 
 ### Outcome
 A website that gives search engines stronger signals and gives visitors a faster path to trust.
+
+### Serving St. Louis and the surrounding area
+Burn.Blue works with organizations in St. Louis, St. Louis County, St. Charles, and the Metro East that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

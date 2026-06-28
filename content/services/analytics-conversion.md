@@ -1,9 +1,9 @@
 ---
 title: "Analytics and Conversion Optimization"
-description: "Tracking, funnel analysis, landing page improvements, and reporting so digital decisions are based on evidence."
+description: "Analytics and conversion optimization for St. Louis websites, including tracking, funnel analysis, landing page improvements, and reporting."
 icon: "📈"
 weight: 100
-kicker: "Burn.Blue service"
+kicker: "St. Louis service"
 ---
 
 ## Measure what matters
@@ -18,6 +18,9 @@ Analytics should clarify which pages, campaigns, and workflows are producing res
 
 ### Outcome
 A clearer view of what is working and what to improve next.
+
+### Serving St. Louis and the surrounding area
+Burn.Blue works with organizations in St. Louis, St. Louis County, St. Charles, and the Metro East that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

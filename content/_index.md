@@ -1,4 +1,4 @@
 ---
 title: "Burn.Blue"
-description: "Burn.Blue designs responsive websites, builds useful web applications, and sets up AI assistants and business automation for growing teams."
+description: "St. Louis web design, development, SEO, AI assistant setup, and business automation services from Burn.Blue for growing Missouri and Metro East teams."
 ---

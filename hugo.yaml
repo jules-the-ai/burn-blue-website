@@ -4,10 +4,10 @@ title: "Burn.Blue"
 summaryLength: 28
 enableRobotsTXT: true
 params:
-  description: "Burn.Blue designs fast websites, builds practical web applications, and sets up AI assistants and automations that help small teams move faster."
+  description: "Burn.Blue provides St. Louis web design, web development, SEO, AI assistant setup, and business automation for local companies that want faster digital systems."
   author: "Burn.Blue"
   email: "hello@burn.blue"
-  tagline: "Websites, web apps, and AI automation for teams ready to move faster."
+  tagline: "St. Louis web design, web apps, AI assistants, and business automation for teams ready to move faster."
 menus:
   main:
     - name: "Services"

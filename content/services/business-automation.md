@@ -1,9 +1,9 @@
 ---
 title: "Business Automation"
-description: "Workflow automation for leads, email, scheduling, documents, CRM updates, reporting, and repetitive operations."
+description: "Business automation for St. Louis teams: lead routing, email follow-up, scheduling, documents, CRM updates, reporting, and repetitive workflows."
 icon: "🔁"
 weight: 120
-kicker: "Burn.Blue service"
+kicker: "St. Louis service"
 ---
 
 ## Automate the repetitive work around the website
@@ -18,6 +18,9 @@ Many businesses lose time after a lead form is submitted: copying data, sending 
 
 ### Automation principles
 Good automation should be observable, reversible, and easy to understand. Burn.Blue focuses on small reliable systems that save time without creating black boxes.
+
+### Serving St. Louis and the surrounding area
+Burn.Blue works with organizations in St. Louis, St. Louis County, St. Charles, and the Metro East that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

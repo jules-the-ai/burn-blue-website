@@ -1,9 +1,9 @@
 ---
 title: "Responsive Web Development"
-description: "Clean, semantic Hugo and frontend builds that load quickly and work across phones, tablets, laptops, and large screens."
+description: "Responsive web development for St. Louis companies using fast, semantic Hugo and frontend builds that work across every screen size."
 icon: "💻"
 weight: 20
-kicker: "Burn.Blue service"
+kicker: "St. Louis service"
 ---
 
 ## Fast pages built on strong fundamentals
@@ -18,6 +18,9 @@ A professional site should feel instant, stable, and easy to maintain. Burn.Blue
 
 ### Why it matters
 Fast, reliable pages improve search visibility, reduce bounce rates, and make every campaign more effective.
+
+### Serving St. Louis and the surrounding area
+Burn.Blue works with organizations in St. Louis, St. Louis County, St. Charles, and the Metro East that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

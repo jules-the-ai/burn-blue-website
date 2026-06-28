@@ -1,9 +1,9 @@
 ---
 title: "Performance Optimization"
-description: "Core Web Vitals improvements, image and asset optimization, and frontend tuning for faster customer experiences."
+description: "Performance optimization for St. Louis websites, including Core Web Vitals, image optimization, asset tuning, and faster customer experiences."
 icon: "⚡"
 weight: 70
-kicker: "Burn.Blue service"
+kicker: "St. Louis service"
 ---
 
 ## Speed is a growth feature
@@ -18,6 +18,9 @@ Slow pages cost attention, trust, and revenue. Burn.Blue audits and improves fro
 
 ### Outcome
 A faster site that supports SEO, ad campaigns, and better user experience.
+
+### Serving St. Louis and the surrounding area
+Burn.Blue works with organizations in St. Louis, St. Louis County, St. Charles, and the Metro East that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).
