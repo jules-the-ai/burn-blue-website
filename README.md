@@ -1,4 +1,4 @@
-# Burn.Blue Website
+# Burn.Blue Website (built with AI)
 
 A Hugo site for Burn.Blue — web design, web development, AI assistant setup, and business automation services.
 
