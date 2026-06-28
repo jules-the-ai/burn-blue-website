@@ -1,0 +1,4 @@
+{{ define "main" }}
+<section class="page-hero"><div class="container"><span class="eyebrow">Burn.Blue services</span><h1>{{ .Title }}</h1>{{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}</div></section>
+<section><div class="container"><div class="services services-list">{{ range .Pages.ByWeight }}<article class="service"><div class="icon">{{ .Params.icon }}</div><h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2><p>{{ .Description }}</p><a class="text-link" href="{{ .RelPermalink }}">Explore service →</a></article>{{ end }}</div></div></section>
+{{ end }}

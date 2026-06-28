@@ -1,0 +1,24 @@
+baseURL: "https://burn.blue/"
+languageCode: "en-us"
+title: "Burn.Blue"
+summaryLength: 28
+enableRobotsTXT: true
+params:
+  description: "Burn.Blue designs fast websites, builds practical web applications, and sets up AI assistants and automations that help small teams move faster."
+  author: "Burn.Blue"
+  email: "hello@burn.blue"
+  tagline: "Websites, web apps, and AI automation for teams ready to move faster."
+menus:
+  main:
+    - name: "Services"
+      pageRef: "/services"
+      weight: 10
+    - name: "Approach"
+      url: "/#approach"
+      weight: 20
+    - name: "Process"
+      url: "/#process"
+      weight: 30
+    - name: "Contact"
+      url: "/#contact"
+      weight: 40
