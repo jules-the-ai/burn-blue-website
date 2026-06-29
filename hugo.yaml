@@ -13,6 +13,9 @@ menus:
     - name: "Services"
       pageRef: "/services"
       weight: 10
+    - name: "Blog"
+      pageRef: "/blog"
+      weight: 15
     - name: "Approach"
       url: "/#approach"
       weight: 20
