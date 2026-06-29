@@ -1,6 +1,8 @@
 ---
 title: "Custom Web Design"
+seoTitle: "Custom Web Design in Union MO | Burn.Blue"
 description: "Custom web design for Union, MO businesses that need credible, responsive, conversion-focused websites built around local customer intent."
+seoDescription: "Get custom web design in Union, MO for credible, responsive, conversion-focused websites built around local customer intent and measurable lead generation."
 icon: "🎨"
 weight: 10
 kicker: "Union, MO service"

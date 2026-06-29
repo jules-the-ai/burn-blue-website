@@ -1,6 +1,8 @@
 ---
 title: "Website Maintenance"
+seoTitle: "Website Maintenance in Union MO | Burn.Blue"
 description: "Website maintenance for Union, MO businesses, including updates, monitoring, bug fixes, backups, and iterative site improvements."
+seoDescription: "Website maintenance for Union, MO businesses, including updates, monitoring, bug fixes, backups, performance checks, and iterative site improvements."
 icon: "🛡️"
 weight: 90
 kicker: "Union, MO service"

@@ -1,6 +1,8 @@
 ---
 title: "AI Assistant Setup"
+seoTitle: "AI Assistant Setup in Union MO | Burn.Blue"
 description: "AI assistant setup for Union, MO businesses that need help with inboxes, documents, calendars, lead review, and safe workflow support."
+seoDescription: "AI assistant setup for Union, MO businesses that need practical help with inboxes, documents, calendars, lead review, safe draft replies, and workflow support."
 icon: "🤖"
 weight: 110
 kicker: "Union, MO service"

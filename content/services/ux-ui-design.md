@@ -1,6 +1,8 @@
 ---
 title: "UX and UI Design"
+seoTitle: "UX & UI Design in Union MO | Burn.Blue"
 description: "UX and UI design for Union, MO websites and web apps, with user journeys, wireframes, prototypes, and interfaces that improve conversion."
+seoDescription: "UX and UI design for Union, MO websites and web apps, including user journeys, wireframes, prototypes, and interfaces that help visitors convert."
 icon: "🧭"
 weight: 50
 kicker: "Union, MO service"

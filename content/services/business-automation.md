@@ -1,6 +1,8 @@
 ---
 title: "Business Automation"
+seoTitle: "Business Automation in Union MO | Burn.Blue"
 description: "Business automation for Union, MO teams: lead routing, email follow-up, scheduling, documents, CRM updates, reporting, and repetitive workflows."
+seoDescription: "Business automation for Union, MO teams: lead routing, email follow-up, scheduling, CRM updates, document workflows, reporting, and repetitive task reduction."
 icon: "🔁"
 weight: 120
 kicker: "Union, MO service"

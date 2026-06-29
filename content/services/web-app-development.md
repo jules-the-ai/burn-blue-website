@@ -1,6 +1,8 @@
 ---
 title: "Web App Development"
+seoTitle: "Web App Development in Union MO | Burn.Blue"
 description: "Custom web app development for Union, MO teams that need dashboards, portals, booking flows, and workflow tools tailored to operations."
+seoDescription: "Custom web app development for Union, MO teams that need dashboards, portals, booking flows, approval tools, and operations software tailored to real workflows."
 icon: "⚙️"
 weight: 60
 kicker: "Union, MO service"

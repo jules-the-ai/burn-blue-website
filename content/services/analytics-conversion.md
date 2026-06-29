@@ -1,6 +1,8 @@
 ---
 title: "Analytics and Conversion Optimization"
+seoTitle: "Analytics & Conversion Optimization in Union MO | Burn.Blue"
 description: "Analytics and conversion optimization for Union, MO websites, including tracking, funnel analysis, landing page improvements, and reporting."
+seoDescription: "Analytics and conversion optimization for Union, MO websites, including tracking, funnel analysis, landing page improvements, reporting, and lead-path fixes."
 icon: "📈"
 weight: 100
 kicker: "Union, MO service"

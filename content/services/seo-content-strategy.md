@@ -1,6 +1,8 @@
 ---
 title: "SEO and Content Strategy"
+seoTitle: "Local SEO & Content Strategy in Union MO | Burn.Blue"
 description: "Local SEO and content strategy for Union, MO businesses, including service pages, metadata, schema, internal links, and search-focused copy."
+seoDescription: "Local SEO and content strategy for Union, MO businesses, including service pages, metadata, schema, internal links, and search-focused copy that captures demand."
 icon: "🔎"
 weight: 30
 kicker: "Union, MO service"

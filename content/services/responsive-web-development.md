@@ -1,6 +1,8 @@
 ---
 title: "Responsive Web Development"
+seoTitle: "Responsive Web Development in Union MO | Burn.Blue"
 description: "Responsive web development for Union, MO companies using fast, semantic Hugo and frontend builds that work across every screen size."
+seoDescription: "Fast responsive web development for Union, MO companies using semantic Hugo and modern frontend builds that work across phones, tablets, and desktops."
 icon: "💻"
 weight: 20
 kicker: "Union, MO service"

@@ -1,16 +1,22 @@
 <!doctype html>
 <html lang="{{ .Site.LanguageCode }}">
 <head>
+  {{ $defaultTitle := cond .IsHome "Union MO Web Design, SEO & AI Automation | Burn.Blue" (printf "%s | Burn.Blue" .Title) }}
+  {{ $seoTitle := .Params.seoTitle | default $defaultTitle }}
+  {{ $seoDescription := .Params.seoDescription | default .Description | default .Site.Params.description }}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if .IsHome }}{{ .Site.Title }} | Union, MO Web Design, Development, SEO, and AI Automation{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <title>{{ $seoTitle }}</title>
+  <meta name="description" content="{{ $seoDescription }}">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="{{ .Permalink }}">
-  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }} | Union, MO Web Design, Development, SEO, and AI Automation{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:title" content="{{ $seoTitle }}">
+  <meta property="og:description" content="{{ $seoDescription }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ $seoTitle }}">
+  <meta name="twitter:description" content="{{ $seoDescription }}">
   <meta name="theme-color" content="#0877ff">
   <meta name="geo.region" content="US-MO">
   <meta name="geo.placename" content="Union, Missouri">

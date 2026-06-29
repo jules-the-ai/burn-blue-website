@@ -1,6 +1,8 @@
 ---
 title: "Performance Optimization"
+seoTitle: "Website Performance Optimization in Union MO | Burn.Blue"
 description: "Performance optimization for Union, MO websites, including Core Web Vitals, image optimization, asset tuning, and faster customer experiences."
+seoDescription: "Website performance optimization for Union, MO businesses, including Core Web Vitals, image optimization, asset tuning, and faster customer experiences."
 icon: "⚡"
 weight: 70
 kicker: "Union, MO service"

@@ -1,6 +1,8 @@
 ---
 title: "Ecommerce Development"
+seoTitle: "Ecommerce Development in Union MO | Burn.Blue"
 description: "Ecommerce development for Union, MO retailers and service businesses, including conversion-focused product pages, checkout paths, and integrations."
+seoDescription: "Ecommerce development for Union, MO retailers and service businesses, including product pages, checkout paths, integrations, and conversion improvements."
 icon: "🛒"
 weight: 40
 kicker: "Union, MO service"

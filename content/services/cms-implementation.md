@@ -1,6 +1,8 @@
 ---
 title: "Hugo CMS Implementation"
+seoTitle: "Hugo CMS Implementation in Union MO | Burn.Blue"
 description: "Hugo CMS implementation for Union, MO businesses that need fast service pages, landing pages, and maintainable content workflows."
+seoDescription: "Hugo CMS implementation for Union, MO businesses that need fast service pages, landing pages, structured content, and maintainable publishing workflows."
 icon: "📝"
 weight: 80
 kicker: "Union, MO service"
