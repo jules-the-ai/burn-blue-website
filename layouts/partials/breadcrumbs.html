@@ -1,0 +1,8 @@
+{{ if not .IsHome }}
+{{ $hasSectionCrumb := and (not .IsSection) .CurrentSection (not .CurrentSection.IsHome) }}
+<nav class="breadcrumbs container" aria-label="Breadcrumb">
+  <a href="{{ .Site.Home.RelPermalink }}">Home</a>
+  {{ if $hasSectionCrumb }}<span aria-hidden="true">/</span><a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a>{{ end }}
+  <span aria-hidden="true">/</span><span aria-current="page">{{ .Title }}</span>
+</nav>
+{{ end }}
