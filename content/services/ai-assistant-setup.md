@@ -1,11 +1,11 @@
 ---
 title: "AI Assistant Setup"
-seoTitle: "AI Assistant Setup in Union MO | Burn.Blue"
-description: "AI assistant setup for Union, MO businesses that need help with inboxes, documents, calendars, lead review, and safe workflow support."
-seoDescription: "AI assistant setup for Union, MO businesses that need practical help with inboxes, documents, calendars, lead review, safe draft replies, and workflow support."
+seoTitle: "AI Assistant Setup for Remote Teams | Burn.Blue"
+description: "AI assistant setup for remote teams that need help with inboxes, documents, calendars, lead review, and safe workflow support."
+seoDescription: "AI assistant setup for remote teams nationwide, including inbox triage, document search, calendars, lead review, safe draft replies, and workflow support."
 icon: "🤖"
 weight: 110
-kicker: "Union, MO service"
+kicker: "Remote service"
 ---
 
 ## AI assistants that do useful work, not just chat
@@ -28,8 +28,8 @@ Burn.Blue helps businesses set up practical AI assistants that can search knowle
 ### Best fit
 Owners and teams that want AI help but need it connected to real business context and practical guardrails.
 
-### Serving Union, MO and the surrounding area
-Burn.Blue works with organizations in Union, Franklin County, Washington, Sullivan, and nearby Missouri communities that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
+### Based in St. Louis, built for remote clients nationwide
+Burn.Blue works with organizations across the U.S. that want practical digital systems: clear pages, stronger search signals, remote-friendly collaboration, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

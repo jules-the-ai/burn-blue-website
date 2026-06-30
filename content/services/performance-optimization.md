@@ -1,11 +1,11 @@
 ---
 title: "Performance Optimization"
-seoTitle: "Website Performance Optimization in Union MO | Burn.Blue"
-description: "Performance optimization for Union, MO websites, including Core Web Vitals, image optimization, asset tuning, and faster customer experiences."
-seoDescription: "Website performance optimization for Union, MO businesses, including Core Web Vitals, image optimization, asset tuning, and faster customer experiences."
+seoTitle: "Website Performance Optimization Nationwide | Burn.Blue"
+description: "Performance optimization for websites nationwide, including Core Web Vitals, image optimization, asset tuning, and faster customer experiences."
+seoDescription: "Website performance optimization for remote clients nationwide, including Core Web Vitals, image optimization, asset tuning, and faster customer experiences."
 icon: "⚡"
 weight: 70
-kicker: "Union, MO service"
+kicker: "Remote service"
 ---
 
 ## Speed is a growth feature
@@ -21,8 +21,8 @@ Slow pages cost attention, trust, and revenue. Burn.Blue audits and improves fro
 ### Outcome
 A faster site that supports SEO, ad campaigns, and better user experience.
 
-### Serving Union, MO and the surrounding area
-Burn.Blue works with organizations in Union, Franklin County, Washington, Sullivan, and nearby Missouri communities that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
+### Based in St. Louis, built for remote clients nationwide
+Burn.Blue works with organizations across the U.S. that want practical digital systems: clear pages, stronger search signals, remote-friendly collaboration, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

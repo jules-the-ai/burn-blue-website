@@ -1,11 +1,11 @@
 ---
 title: "Custom Web Design"
-seoTitle: "Custom Web Design in Union MO | Burn.Blue"
-description: "Custom web design for Union, MO businesses that need credible, responsive, conversion-focused websites built around local customer intent."
-seoDescription: "Get custom web design in Union, MO for credible, responsive, conversion-focused websites built around local customer intent and measurable lead generation."
+seoTitle: "Custom Web Design Nationwide from St. Louis | Burn.Blue"
+description: "Custom web design for businesses nationwide that need credible, responsive, conversion-focused websites built around customer intent."
+seoDescription: "Get custom web design from St. Louis for remote clients nationwide: credible, responsive, conversion-focused websites built around customer intent and measurable lead generation."
 icon: "🎨"
 weight: 10
-kicker: "Union, MO service"
+kicker: "Remote service"
 ---
 
 ## Design that feels clear, credible, and ready to sell
@@ -21,8 +21,8 @@ Burn.Blue designs websites that look polished without burying the message. The w
 ### Best fit
 Businesses that need a sharper first impression, a cleaner content structure, or a redesign that can become the foundation for marketing and automation.
 
-### Serving Union, MO and the surrounding area
-Burn.Blue works with organizations in Union, Franklin County, Washington, Sullivan, and nearby Missouri communities that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
+### Based in St. Louis, built for remote clients nationwide
+Burn.Blue works with organizations across the U.S. that want practical digital systems: clear pages, stronger search signals, remote-friendly collaboration, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

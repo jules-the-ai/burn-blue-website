@@ -1,11 +1,11 @@
 ---
 title: "Web App Development"
-seoTitle: "Web App Development in Union MO | Burn.Blue"
-description: "Custom web app development for Union, MO teams that need dashboards, portals, booking flows, and workflow tools tailored to operations."
-seoDescription: "Custom web app development for Union, MO teams that need dashboards, portals, booking flows, approval tools, and operations software tailored to real workflows."
+seoTitle: "Web App Development for Remote Teams | Burn.Blue"
+description: "Custom web app development for remote teams that need dashboards, portals, booking flows, and workflow tools tailored to operations."
+seoDescription: "Custom web app development for remote teams nationwide that need dashboards, portals, booking flows, approval tools, and operations software tailored to real workflows."
 icon: "⚙️"
 weight: 60
-kicker: "Union, MO service"
+kicker: "Remote service"
 ---
 
 ## Custom tools for the work spreadsheets cannot handle
@@ -21,8 +21,8 @@ When a marketing site is not enough, Burn.Blue can build lightweight web applica
 ### Best fit
 Teams that have outgrown manual processes but do not need an expensive enterprise platform.
 
-### Serving Union, MO and the surrounding area
-Burn.Blue works with organizations in Union, Franklin County, Washington, Sullivan, and nearby Missouri communities that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
+### Based in St. Louis, built for remote clients nationwide
+Burn.Blue works with organizations across the U.S. that want practical digital systems: clear pages, stronger search signals, remote-friendly collaboration, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ .Site.LanguageCode }}">
 <head>
-  {{ $defaultTitle := cond .IsHome "Union MO Web Design, SEO & AI Automation | Burn.Blue" (printf "%s | Burn.Blue" .Title) }}
+  {{ $defaultTitle := cond .IsHome "St. Louis Web Design, SEO & AI Automation Nationwide | Burn.Blue" (printf "%s | Burn.Blue" .Title) }}
   {{ $seoTitle := .Params.seoTitle | default $defaultTitle }}
   {{ $seoDescription := .Params.seoDescription | default .Description | default .Site.Params.description }}
   <meta charset="utf-8">
@@ -19,7 +19,7 @@
   <meta name="twitter:description" content="{{ $seoDescription }}">
   <meta name="theme-color" content="#0877ff">
   <meta name="geo.region" content="US-MO">
-  <meta name="geo.placename" content="Union, Missouri">
+  <meta name="geo.placename" content="St. Louis, Missouri">
   <meta property="og:locale" content="en_US">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
@@ -29,7 +29,7 @@
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": ["ProfessionalService", "LocalBusiness"],
+        "@type": "ProfessionalService",
         "@id": "{{ .Site.BaseURL }}#business",
         "name": "Burn.Blue",
         "url": "{{ .Site.BaseURL }}",
@@ -37,18 +37,15 @@
         "description": "{{ .Site.Params.description }}",
         "address": {
           "@type": "PostalAddress",
-          "addressLocality": "Union",
+          "addressLocality": "St. Louis",
           "addressRegion": "MO",
           "addressCountry": "US"
         },
         "areaServed": [
-          {"@type": "City", "name": "Union"},
-          {"@type": "AdministrativeArea", "name": "Franklin County"},
-          {"@type": "City", "name": "Washington"},
-          {"@type": "City", "name": "Sullivan"},
-          {"@type": "AdministrativeArea", "name": "nearby Missouri communities"}
+          {"@type": "City", "name": "St. Louis"},
+          {"@type": "Country", "name": "United States"}
         ],
-        "serviceType": ["Union, MO web design", "Web development", "Local SEO", "AI assistant setup", "Business automation", "Ecommerce development"]
+        "serviceType": ["Web design", "Web development", "SEO", "AI assistant setup", "Business automation", "Ecommerce development"]
       },
       {
         "@type": "WebSite",
@@ -95,7 +92,7 @@
         "name": "{{ .Title }}",
         "description": "{{ $seoDescription }}",
         "provider": {"@id": "{{ .Site.BaseURL }}#business"},
-        "areaServed": ["Union, MO", "Franklin County, MO", "Washington, MO", "Sullivan, MO"],
+        "areaServed": ["United States", "St. Louis, MO"],
         "url": "{{ .Permalink }}"
       }{{ end }}
     ]
@@ -117,7 +114,7 @@
 </header>
 <main id="main">{{ block "main" . }}{{ end }}</main>
 <footer>
-  <div class="container"><span>© {{ now.Year }} Burn.Blue. Union, MO web design, AI assistants, and automation for modern teams.</span><span><a href="/services/">Services</a> · <a href="/blog/">Blog</a> · <a href="/#approach">Approach</a> · <a href="/#contact">Contact</a></span></div>
+  <div class="container"><span>© {{ now.Year }} Burn.Blue. St. Louis-based web design, AI assistants, and automation for remote clients nationwide.</span><span><a href="/services/">Services</a> · <a href="/blog/">Blog</a> · <a href="/#approach">Approach</a> · <a href="/#contact">Contact</a></span></div>
 </footer>
 </body>
 </html>

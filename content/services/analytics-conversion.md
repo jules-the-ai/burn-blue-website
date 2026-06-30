@@ -1,11 +1,11 @@
 ---
 title: "Analytics and Conversion Optimization"
-seoTitle: "Analytics & Conversion Optimization in Union MO | Burn.Blue"
-description: "Analytics and conversion optimization for Union, MO websites, including tracking, funnel analysis, landing page improvements, and reporting."
-seoDescription: "Analytics and conversion optimization for Union, MO websites, including tracking, funnel analysis, landing page improvements, reporting, and lead-path fixes."
+seoTitle: "Analytics & Conversion Optimization Nationwide | Burn.Blue"
+description: "Analytics and conversion optimization for growing websites, including tracking, funnel analysis, landing page improvements, and reporting."
+seoDescription: "Analytics and conversion optimization for remote clients nationwide, including tracking, funnel analysis, landing page improvements, reporting, and lead-path fixes."
 icon: "📈"
 weight: 100
-kicker: "Union, MO service"
+kicker: "Remote service"
 ---
 
 ## Measure what matters
@@ -21,8 +21,8 @@ Analytics should clarify which pages, campaigns, and workflows are producing res
 ### Outcome
 A clearer view of what is working and what to improve next.
 
-### Serving Union, MO and the surrounding area
-Burn.Blue works with organizations in Union, Franklin County, Washington, Sullivan, and nearby Missouri communities that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
+### Based in St. Louis, built for remote clients nationwide
+Burn.Blue works with organizations across the U.S. that want practical digital systems: clear pages, stronger search signals, remote-friendly collaboration, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

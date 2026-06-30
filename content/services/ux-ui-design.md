@@ -1,11 +1,11 @@
 ---
 title: "UX and UI Design"
-seoTitle: "UX & UI Design in Union MO | Burn.Blue"
-description: "UX and UI design for Union, MO websites and web apps, with user journeys, wireframes, prototypes, and interfaces that improve conversion."
-seoDescription: "UX and UI design for Union, MO websites and web apps, including user journeys, wireframes, prototypes, and interfaces that help visitors convert."
+seoTitle: "UX & UI Design Nationwide | Burn.Blue"
+description: "UX and UI design for websites and web apps nationwide, with user journeys, wireframes, prototypes, and interfaces that improve conversion."
+seoDescription: "UX and UI design for remote clients nationwide, including user journeys, wireframes, prototypes, and interfaces that help visitors convert."
 icon: "🧭"
 weight: 50
-kicker: "Union, MO service"
+kicker: "Remote service"
 ---
 
 ## Make the next step obvious
@@ -21,8 +21,8 @@ Good UX makes a site or app feel simple, even when the business behind it is com
 ### Outcome
 Visitors understand what you do, why it matters, and what to do next.
 
-### Serving Union, MO and the surrounding area
-Burn.Blue works with organizations in Union, Franklin County, Washington, Sullivan, and nearby Missouri communities that want practical digital systems: clear pages, stronger local search signals, and automation that reduces follow-up friction.
+### Based in St. Louis, built for remote clients nationwide
+Burn.Blue works with organizations across the U.S. that want practical digital systems: clear pages, stronger search signals, remote-friendly collaboration, and automation that reduces follow-up friction.
 
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).
