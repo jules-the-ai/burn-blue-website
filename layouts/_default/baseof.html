@@ -17,7 +17,18 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ $seoTitle }}">
   <meta name="twitter:description" content="{{ $seoDescription }}">
-  <meta name="theme-color" content="#0877ff">
+  <meta name="theme-color" content="#006ee6" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#07111f" media="(prefers-color-scheme: dark)">
+  <script>
+    (function () {
+      try {
+        var saved = localStorage.getItem("burnblue-theme");
+        if (saved === "dark" || saved === "light") {
+          document.documentElement.dataset.theme = saved;
+        }
+      } catch (error) {}
+    })();
+  </script>
   <meta name="geo.region" content="US-MO">
   <meta name="geo.placename" content="St. Louis, Missouri">
   <meta property="og:locale" content="en_US">
@@ -108,7 +119,13 @@
       <div class="nav-links">
         {{ range .Site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}
       </div>
-      <a class="btn" href="/#contact">Start a Project</a>
+      <div class="nav-actions">
+        <button class="theme-toggle" type="button" aria-label="Switch to dark mode" aria-pressed="false">
+          <span class="theme-toggle-icon" aria-hidden="true">☾</span>
+          <span class="theme-toggle-text">Dark</span>
+        </button>
+        <a class="btn" href="/#contact">Start a Project</a>
+      </div>
     </nav>
   </div>
 </header>
@@ -116,5 +133,32 @@
 <footer>
   <div class="container"><span>© {{ now.Year }} Burn.Blue. St. Louis-based web design, AI assistants, and automation for remote clients nationwide.</span><span><a href="/services/">Services</a> · <a href="/blog/">Blog</a> · <a href="/about/">About</a> · <a href="/#contact">Contact</a></span></div>
 </footer>
+<script>
+  (function () {
+    var button = document.querySelector(".theme-toggle");
+    if (!button) return;
+    var icon = button.querySelector(".theme-toggle-icon");
+    var text = button.querySelector(".theme-toggle-text");
+    var media = window.matchMedia("(prefers-color-scheme: dark)");
+    function activeTheme() {
+      return document.documentElement.dataset.theme || (media.matches ? "dark" : "light");
+    }
+    function render() {
+      var isDark = activeTheme() === "dark";
+      button.setAttribute("aria-pressed", String(isDark));
+      button.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode");
+      if (icon) icon.textContent = isDark ? "☀" : "☾";
+      if (text) text.textContent = isDark ? "Light" : "Dark";
+    }
+    button.addEventListener("click", function () {
+      var next = activeTheme() === "dark" ? "light" : "dark";
+      document.documentElement.dataset.theme = next;
+      try { localStorage.setItem("burnblue-theme", next); } catch (error) {}
+      render();
+    });
+    if (media.addEventListener) media.addEventListener("change", render);
+    render();
+  })();
+</script>
 </body>
 </html>
