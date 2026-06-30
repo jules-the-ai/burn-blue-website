@@ -43,8 +43,22 @@
         "@type": "ProfessionalService",
         "@id": "{{ .Site.BaseURL }}#business",
         "name": "Burn.Blue",
+        "alternateName": "Burn Blue",
         "url": "{{ .Site.BaseURL }}",
+        "logo": "{{ printf "%sfavicon.svg" .Site.BaseURL }}",
+        "image": "{{ printf "%sfavicon.svg" .Site.BaseURL }}",
         "email": "hello@burn.blue",
+        "sameAs": ["https://www.linkedin.com/company/burnblue/"],
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "email": "hello@burn.blue",
+            "url": "{{ .Site.BaseURL }}#contact",
+            "areaServed": "US",
+            "availableLanguage": ["en"]
+          }
+        ],
         "description": "{{ .Site.Params.description }}",
         "address": {
           "@type": "PostalAddress",
@@ -56,7 +70,8 @@
           {"@type": "City", "name": "St. Louis"},
           {"@type": "Country", "name": "United States"}
         ],
-        "serviceType": ["Web design", "Web development", "SEO", "AI assistant setup", "Business automation", "Ecommerce development"]
+        "serviceType": ["Web design", "Web development", "SEO", "AI assistant setup", "Business automation", "Ecommerce development"],
+        "knowsAbout": ["Web design", "Web development", "Search engine optimization", "AI assistants", "Business automation", "Lead intake automation", "Small business websites"]
       },
       {
         "@type": "WebSite",
