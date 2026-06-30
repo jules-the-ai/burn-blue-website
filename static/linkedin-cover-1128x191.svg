@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1128" height="191" viewBox="0 0 1128 191" role="img" aria-label="Burn.Blue LinkedIn company cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#040d1c"/><stop offset="1" stop-color="#063a8a"/></linearGradient>
+    <radialGradient id="glow" cx="15%" cy="48%" r="42%"><stop offset="0" stop-color="#0877ff" stop-opacity="0.46"/><stop offset="1" stop-color="#0877ff" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.42"/></filter>
+  </defs>
+  <rect width="1128" height="191" fill="url(#bg)"/>
+  <rect width="1128" height="191" fill="url(#glow)"/>
+  <path d="M735 0H1128V191H900Z" fill="#ffffff" opacity="0.085"/>
+  <path d="M965 0H1128V191H1060Z" fill="#00b7ff" opacity="0.10"/>
+  <circle cx="122" cy="99" r="89" fill="none" stroke="#8fd3ff" stroke-opacity="0.22" stroke-width="2"/>
+  <g transform="translate(55 27) scale(2.05)" filter="url(#shadow)">
+    <path fill="#0877ff" d="M34.7 4.2c2.6 9.2.4 14.8-3.4 20.2-2.2-5.2-6.4-8.6-6.4-8.6.8 7.6-6.7 12.5-9.4 18.8-4.4 10.1 2.1 21.9 13.8 24.3 12.8 2.6 24.1-6.2 24.1-18.6 0-9.9-6.2-17-12.2-23.8-3-3.4-5.5-6.5-6.5-12.3Z"/>
+    <path fill="#8fd3ff" d="M33 55.1c-5.8-.2-10.4-4.7-10.4-10.4 0-4.1 2.6-7.3 5.1-10.4 1.5 3.4 4.1 5.2 4.1 5.2 1.2-5.3 4.4-8.5 4.4-8.5.4 4.7 4.9 8.2 5.7 13.4.9 6-3.1 10.9-8.9 10.7Z"/>
+  </g>
+  <text x="240" y="92" font-family="Inter, DejaVu Sans, Arial, sans-serif" font-size="58" font-weight="900" fill="#f8fcff">Burn.Blue</text>
+  <text x="240" y="142" font-family="Inter, DejaVu Sans, Arial, sans-serif" font-size="25" fill="#bce1ff">Websites • AI Assistants • Business Automation</text>
+  <rect x="812" y="126" width="285" height="43" rx="21.5" fill="#ffffff" opacity="0.13" stroke="#8fd3ff" stroke-opacity="0.25"/>
+  <text x="827" y="154" font-family="Inter, DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="800" fill="#ebf8ff">St. Louis + remote nationwide</text>
+</svg>
