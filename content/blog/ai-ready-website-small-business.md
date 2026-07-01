@@ -1,7 +1,7 @@
 ---
 title: "AI-Ready Websites: The Practical Foundation Small Businesses Need Before Automation"
 seoTitle: "AI-Ready Websites for Small Business | Burn.Blue"
-date: 2026-06-30
+date: 2026-06-30T07:52:54-05:00
 description: "Before a small business can get reliable value from AI assistants and automation, its website needs clear content, structured data, useful forms, fast pages, and clean handoffs."
 seoDescription: "Learn how small businesses can prepare their websites for AI assistants and automation with clear content, structured data, better forms, analytics, and workflow handoffs."
 kicker: "Web strategy"

@@ -115,8 +115,8 @@
         "@id": "{{ .Permalink }}#article",
         "headline": "{{ .Title }}",
         "description": "{{ $seoDescription }}",
-        "datePublished": "{{ .Date.Format "2006-01-02" }}",
-        "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
         "author": {"@id": "{{ .Site.BaseURL }}#business"},
         "publisher": {"@id": "{{ .Site.BaseURL }}#business"},
         "mainEntityOfPage": {"@id": "{{ .Permalink }}#webpage"}

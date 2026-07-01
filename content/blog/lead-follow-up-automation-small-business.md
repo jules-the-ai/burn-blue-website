@@ -1,7 +1,7 @@
 ---
 title: "Lead Follow-Up Automation: The Small Business AI Project With the Fastest Payoff"
 seoTitle: "Lead Follow-Up Automation for Small Business | Burn.Blue"
-date: 2026-07-01
+date: 2026-07-01T10:48:07-05:00
 description: "Lead follow-up is one of the safest, highest-value places for small businesses to use AI automation because it is repetitive, measurable, and easy to keep under human review."
 seoDescription: "Learn why lead follow-up automation is a practical first AI project for small businesses, how to design the workflow, and where to keep human approval."
 kicker: "Business automation"

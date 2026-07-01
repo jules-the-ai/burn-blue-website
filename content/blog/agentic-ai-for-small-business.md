@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI for Small Business: Start With Workflows, Not Hype"
 seoTitle: "Agentic AI for Small Business Workflows | Burn.Blue"
-date: 2026-06-29
+date: 2026-06-29T07:21:09-05:00
 description: "AI agents are moving from chat windows into real business workflows. Here is how small teams can evaluate browser agents, AI assistants, and automation safely."
 seoDescription: "Learn how small businesses can evaluate AI agents, browser agents, AI assistants, and automation safely by starting with real workflows instead of hype."
 kicker: "AI assistant setup"
