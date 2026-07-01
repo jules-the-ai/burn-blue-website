@@ -1,5 +1,5 @@
 {{ define "main" }}
 {{ partial "breadcrumbs.html" . }}
-<section class="page-hero"><div class="container narrow"><span class="eyebrow">{{ .Params.kicker | default "Burn.Blue blog" }}</span><p class="article-meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">Published {{ .Date.Format "January 2, 2006 at 3:04 PM" }} Central</time></p><h1>{{ .Title }}</h1>{{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}<div class="hero-actions"><a class="btn" href="/#contact">Talk through a project</a><a class="btn secondary" href="/blog/">Back to blog</a></div></div></section>
+<section class="page-hero"><div class="container narrow"><span class="eyebrow">{{ .Params.kicker | default "Burn.Blue blog" }}</span><p class="article-meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">Published {{ .Date.Format "January 2, 2006 at 3:04 PM" }}</time></p><h1>{{ .Title }}</h1>{{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}<div class="hero-actions"><a class="btn" href="/#contact">Talk through a project</a><a class="btn secondary" href="/blog/">Back to blog</a></div></div></section>
 <section><div class="container narrow content article-content">{{ .Content }}</div></section>
 {{ end }}
