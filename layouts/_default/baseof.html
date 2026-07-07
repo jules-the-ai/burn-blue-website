@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ $seoTitle }}</title>
   <meta name="description" content="{{ $seoDescription }}">
-  <meta name="robots" content="index, follow">
+  {{ if eq .Kind "404" }}<meta name="robots" content="noindex, follow">{{ else }}<meta name="robots" content="index, follow">{{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <meta property="og:title" content="{{ $seoTitle }}">
   <meta property="og:description" content="{{ $seoDescription }}">
