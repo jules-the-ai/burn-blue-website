@@ -1,11 +1,11 @@
 ---
 title: "Simple Business Websites"
-seoTitle: "$30/Month Simple Business Websites | Burn.Blue"
-description: "Simple informational websites for small businesses: $30/month, 48-hour turnaround, standard domain registration, hosting, and launch support included."
-seoDescription: "Burn.Blue builds simple informational small-business websites for $30/month with 48-hour turnaround, standard domain registration, hosting, and launch support included."
+seoTitle: "$49/Month Simple Business Websites | Burn.Blue"
+description: "Simple informational websites for small businesses: $49/month, 48-hour turnaround, standard domain registration, hosting, and launch support included."
+seoDescription: "Burn.Blue builds simple informational small-business websites for $49/month with 48-hour turnaround, standard domain registration, hosting, and launch support included."
 icon: "🌐"
 weight: 5
-kicker: "$30/month website service"
+kicker: "$49/month website service"
 ---
 
 ## A simple website without the big upfront project
@@ -16,7 +16,7 @@ Instead of a large design project, Burn.Blue keeps the scope intentionally simpl
 
 ### What is included
 
-- A simple informational website for **$30/month**
+- A simple informational website for **$49/month**
 - **48-hour turnaround** after Burn.Blue has the business details, copy, photos, and any required approvals
 - Free standard domain name registration included
 - Free website hosting included while the plan is active
@@ -46,4 +46,4 @@ Those can still be scoped separately if you need them.
 
 ### Ready for a simple website?
 
-[Start with the $30/month website service](/#contact) and send the business name, preferred domain ideas, services, location or service area, contact details, logo if you have one, and any photos you want included.
+[Start with the $49/month website service](/#contact) and send the business name, preferred domain ideas, services, location or service area, contact details, logo if you have one, and any photos you want included.
