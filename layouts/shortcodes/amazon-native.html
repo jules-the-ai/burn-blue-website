@@ -7,6 +7,7 @@
     <strong>{{ $title }}</strong>
     <p>This widget is served by Amazon, so products, images, prices, and availability can update without Burn.Blue hardcoding stale goblin math.</p>
   </div>
+  <p><a class="amazon-native-fallback" href="https://www.amazon.com/s?k={{ $phrase | urlquery }}&tag={{ $tag }}" target="_blank" rel="sponsored noopener">Open current Amazon results →</a></p>
   <noscript><p><a href="https://www.amazon.com/s?k={{ $phrase | urlquery }}&tag={{ $tag }}" target="_blank" rel="sponsored noopener">View {{ $phrase }} on Amazon</a></p></noscript>
   <script type="text/javascript">
     amzn_assoc_placement = "adunit0";
