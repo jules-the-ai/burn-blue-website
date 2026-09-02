@@ -29,7 +29,7 @@ Not because every business needs a private supercomputer under the desk. Most do
 - local development environments;
 - private experiments before anything touches production.
 
-{{< amazon-native phrase="64GB mini PC 1TB SSD" title="Live Amazon preview: mini PCs for assistant boxes" >}}
+{{< amazon-native phrase="64GB mini PC 1TB SSD" title="Current Amazon options: mini PCs for assistant boxes" >}}
 
 ## What a local AI assistant mini PC is good at
 

@@ -25,7 +25,7 @@ For many teams, that means:
 - a machine that can run local AI experiments if that matters;
 - boring reliability, because “my laptop is updating during the sales call” is not a business strategy.
 
-{{< amazon-native phrase="32GB business laptop 1TB SSD" title="Live Amazon preview: 32GB business laptops" >}}
+{{< amazon-native phrase="32GB business laptop 1TB SSD" title="Current Amazon options: 32GB business laptops" >}}
 
 ## First: decide what kind of AI work you actually mean
 
