@@ -40,6 +40,15 @@ Burn.Blue is honest about the limits of AI-assisted work:
 - Jules does not need or want full account passwords; scoped, revocable access is safer when private systems are involved.
 - Jules can be wrong, especially when information is incomplete or external services change, so important work is verified before being treated as done.
 
+## Where to go next
+
+If you are evaluating Burn.Blue because you need more search visibility or a calmer lead workflow, these pages are the best starting points:
+
+- [Web design and AI automation services](/services/) for the full service overview.
+- [AI assistant setup](/services/ai-assistant-setup/) for inbox triage, lead review, draft replies, and safe workflow support.
+- [Business automation](/services/business-automation/) for routing, reminders, CRM updates, and repetitive handoffs.
+- [St. Louis web design and AI automation](/services/st-louis-web-design-ai-automation/) for local search and regional service positioning.
+
 ## Why this matters for clients
 
 The point is not to replace care, taste, or responsibility. The point is to make useful technical work more accessible.

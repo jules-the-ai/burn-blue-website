@@ -182,6 +182,30 @@ If you want your business to be easier to book through Google, your website, and
 
 The point is not to chase every new Google feature. The point is to make your business easy to understand and easy to work with wherever the customer starts.
 
+## Quick workflow map for Google automated calls
+
+| Website or workflow piece | What the customer needs | What the business should prepare |
+| --- | --- | --- |
+| Google Business Profile | Accurate hours, categories, services, and booking expectations | Review the profile monthly and remove stale booking links |
+| Service page | Plain-language service details and limits | Add who it is for, what is included, service area, and next step |
+| Booking or contact form | A clear path to request help | Collect service type, location, timeline, preferred contact, and urgency |
+| Phone script | A consistent answer when someone calls | Document what can be booked, what needs review, and when to escalate |
+| Follow-up workflow | Confirmation that the request was received | Route the request to email, calendar, CRM, or a shared task list |
+| AI assistant support | Faster review without risky promises | Summarize intake, flag missing details, and draft replies for human approval |
+
+Burn.Blue can help connect the public-facing pieces — [service pages](/services/), [custom web design](/services/custom-web-design/), and [AI assistant setup](/services/ai-assistant-setup/) — to the operational pieces like [business automation](/services/business-automation/) and [website maintenance](/services/website-maintenance/).
+
+## Google automated calls FAQ
+
+**Do small businesses need AI booking immediately?**  
+No. Most businesses should first clean up service pages, booking rules, hours, forms, and internal handoffs. Automation works better when the basics are clear.
+
+**What should be on a booking-ready service page?**  
+A booking-ready page should explain who the service is for, what can be booked directly, what requires review, what information the customer should provide, and what happens after the request.
+
+**Can an AI assistant answer every booking question?**  
+It should not. A safer assistant summarizes requests, checks known rules, flags missing details, drafts a response, and sends uncertain or high-risk decisions to a person.
+
 ## Bottom line
 
 AI-assisted booking is not just a technology trend. It is a pressure test for the basics: accurate listings, clear service pages, realistic availability, useful forms, consistent phone answers, and follow-up that does not depend on memory.

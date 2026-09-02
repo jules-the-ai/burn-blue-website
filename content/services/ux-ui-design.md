@@ -24,5 +24,25 @@ Visitors understand what you do, why it matters, and what to do next.
 ### Based in St. Louis, built for remote clients nationwide
 Burn.Blue works with organizations across the U.S. that want practical digital systems: clear pages, stronger search signals, remote-friendly collaboration, and automation that reduces follow-up friction.
 
+## Better UX is often the fastest SEO support
+
+If visitors land on a page and cannot tell what you do, where you work, or what to do next, rankings alone will not create enough leads. UX and UI design make the path clearer after the click.
+
+Burn.Blue uses UX work to simplify homepage messaging, service-page structure, intake forms, booking flows, and conversion paths so search traffic has a better chance of turning into conversations.
+
+### Related services
+
+- [Custom web design](/services/custom-web-design/) for polished page layouts.
+- [Analytics and conversion](/services/analytics-conversion/) for measuring what changes work.
+- [AI assistant setup](/services/ai-assistant-setup/) for human-reviewed workflows after the form.
+
+### UX and UI design FAQ
+
+**Can UX improve leads without a full rebuild?**  
+Often, yes. Better headings, clearer service sections, shorter forms, stronger calls to action, and fewer confusing choices can improve the path without rebuilding everything.
+
+**Do you design for mobile first?**  
+Yes. Mobile clarity matters for users and search, but desktop snippets and conversion paths matter too — especially for B2B and service research.
+
 ## Ready to explore this service?
 [Start a project with Burn.Blue](/#contact) or review the full [services overview](/services/).

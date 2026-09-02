@@ -2,8 +2,8 @@
 title: "Agentic AI for Small Business: Start With Workflows, Not Hype"
 seoTitle: "Agentic AI for Small Business Workflows | Burn.Blue"
 date: 2026-06-29T07:21:09-05:00
-description: "AI agents are moving from chat windows into real business workflows. Here is how small teams can evaluate browser agents, AI assistants, and automation safely."
-seoDescription: "Learn how small businesses can evaluate AI agents, browser agents, AI assistants, and automation safely by starting with real workflows instead of hype."
+description: "Agentic AI for small business works best when it starts with real workflows: lead intake, inbox triage, follow-up, document search, and human-reviewed automation."
+seoDescription: "Learn how agentic AI for small business can support lead intake, inbox triage, follow-up, document search, and human-reviewed automation without hype."
 kicker: "AI assistant setup"
 tags: ["AI assistants", "business automation", "agentic AI", "small business"]
 ---
@@ -77,6 +77,13 @@ This keeps AI useful without turning it into a black box.
 The website is often the front door for automation. A fast site with clear service pages, clean forms, analytics, and structured content gives an AI workflow better inputs. If a contact form captures the project type, timeline, location, and budget range, an assistant can route the lead more accurately. If the site has clear service descriptions, a reply draft can stay consistent with the business.
 
 That is why web development, local SEO, AI assistant setup, and business automation belong together. The page that attracts the lead and the workflow that handles the lead should be designed as one system.
+
+## Related Burn.Blue resources
+
+- [AI assistant setup](/services/ai-assistant-setup/) for safer assistant configuration.
+- [Business automation](/services/business-automation/) for lead routing, reminders, and handoffs.
+- [Customer message routing for small business](/blog/customer-message-routing-small-business/) for organizing calls, forms, and inboxes.
+- [Google automated calls and small-business booking](/blog/google-automated-calls-small-business-booking/) for booking workflow readiness.
 
 ## Bottom line
 

@@ -170,6 +170,13 @@ A good assistant can notice that the customer never answered, or that the busine
 
 That is boring. It is also where revenue and trust leak out.
 
+## Related Burn.Blue resources
+
+- [AI assistant setup](/services/ai-assistant-setup/) for safer assistant configuration.
+- [Business automation](/services/business-automation/) for lead routing, reminders, and handoffs.
+- [Customer message routing for small business](/blog/customer-message-routing-small-business/) for organizing calls, forms, and inboxes.
+- [Google automated calls and small-business booking](/blog/google-automated-calls-small-business-booking/) for booking workflow readiness.
+
 ## Better inboxes feel more human, not less
 
 The goal is not to make a small business sound like a machine.

@@ -167,6 +167,32 @@ Useful metrics include:
 
 This does not require enterprise reporting. A small business can start with labels, a spreadsheet, a CRM board, or a shared task list. The point is to stop treating each inquiry as an isolated notification and start treating the handoff as a system.
 
+## A simple message-routing checklist
+
+Use this checklist before buying another inbox tool or AI receptionist:
+
+1. List every place a customer can contact the business: website form, phone, email, booking app, Google profile, social DM, referrals, and repeat-customer texts.
+2. Decide which request types are sales, support, billing, urgent, existing-customer, vendor, or spam.
+3. Assign one primary owner and one backup owner for each request type.
+4. Write the safe first response for common requests.
+5. Identify messages that should never be auto-sent, including billing changes, refunds, emergencies, legal issues, and suspicious links.
+6. Decide where the official record lives: CRM, spreadsheet, task board, inbox label, or calendar.
+7. Create a follow-up rule so leads do not depend on memory.
+8. Test the workflow from the customer side.
+
+If the website itself is part of the mess, fix the source first: clearer [custom web design](/services/custom-web-design/), better [UX and UI design](/services/ux-ui-design/), stronger [service pages](/services/), and a safer [AI assistant setup](/services/ai-assistant-setup/) can make routing much easier.
+
+## Customer message routing FAQ
+
+**Is customer message routing the same as a chatbot?**  
+No. Routing decides where each inquiry goes, who owns it, what context is attached, and when follow-up happens. A chatbot may be one input, but the routing system is the operational backbone.
+
+**What is the safest first automation?**  
+The safest first step is usually internal: label the message, summarize it, extract missing details, draft a reply, and create a follow-up reminder for a human to review.
+
+**When should a small business not automate a reply?**  
+Do not auto-send replies for billing disputes, legal questions, emergencies, sensitive personal information, account changes, or anything where the business rules are unclear.
+
 ## The best automation feels calm
 
 Good customer message routing does not make a business sound robotic. It makes the business feel more organized.

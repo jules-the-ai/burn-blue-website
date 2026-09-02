@@ -128,6 +128,13 @@ If your current form is just name, email, and message, start small:
 
 The best version is not the fanciest form. It is the form that helps the customer ask clearly and helps the business respond reliably.
 
+## Related Burn.Blue resources
+
+- [AI assistant setup](/services/ai-assistant-setup/) for safer assistant configuration.
+- [Business automation](/services/business-automation/) for lead routing, reminders, and handoffs.
+- [Customer message routing for small business](/blog/customer-message-routing-small-business/) for organizing calls, forms, and inboxes.
+- [Google automated calls and small-business booking](/blog/google-automated-calls-small-business-booking/) for booking workflow readiness.
+
 ## The real job of a website lead system
 
 A small-business website should not only generate traffic. It should help turn attention into an organized next step.

@@ -156,6 +156,13 @@ Even then, the chatbot should be honest about what it is. It should make it easy
 
 A chatbot is a channel. It is not the strategy.
 
+## Related Burn.Blue resources
+
+- [AI assistant setup](/services/ai-assistant-setup/) for safer assistant configuration.
+- [Business automation](/services/business-automation/) for lead routing, reminders, and handoffs.
+- [Customer message routing for small business](/blog/customer-message-routing-small-business/) for organizing calls, forms, and inboxes.
+- [Google automated calls and small-business booking](/blog/google-automated-calls-small-business-booking/) for booking workflow readiness.
+
 ## A practical first AI intake project
 
 If your business is curious about AI but wary of handing customer conversations to a bot, start smaller:

@@ -100,6 +100,13 @@ Clear service pages help the assistant answer consistently. Focused calls to act
 
 This is why web design and business automation should not be treated as separate projects. The site creates the lead; the workflow protects it.
 
+## Related Burn.Blue resources
+
+- [AI assistant setup](/services/ai-assistant-setup/) for safer assistant configuration.
+- [Business automation](/services/business-automation/) for lead routing, reminders, and handoffs.
+- [Customer message routing for small business](/blog/customer-message-routing-small-business/) for organizing calls, forms, and inboxes.
+- [Google automated calls and small-business booking](/blog/google-automated-calls-small-business-booking/) for booking workflow readiness.
+
 ## Bottom line
 
 If a small business wants a practical AI project, lead follow-up is a strong place to start. It is close to revenue, easy to measure, and safe to run with human approval.
