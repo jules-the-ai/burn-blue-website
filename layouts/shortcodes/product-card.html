@@ -9,7 +9,7 @@
 {{ $skip := .Get "skip" }}
 <a class="affiliate-product-card" href="{{ $href }}" target="_blank" rel="sponsored noopener">
   <span class="product-badge">{{ $badge }}</span>
-  <span class="product-visual">{{ if $img }}<img src="{{ $img }}" alt="{{ $alt }}" loading="lazy">{{ else }}<span aria-hidden="true">{{ $icon }}</span>{{ end }}</span>
+  <span class="product-visual">{{ if $img }}<img src="{{ $img }}" alt="{{ $alt }}">{{ else }}<span aria-hidden="true">{{ $icon }}</span>{{ end }}</span>
   <span class="product-copy">
     <strong>{{ $title }}</strong>
     {{ with $good }}<em>{{ . }}</em>{{ end }}
