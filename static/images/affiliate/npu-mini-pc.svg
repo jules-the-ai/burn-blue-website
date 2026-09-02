@@ -1,21 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-label="NPU Mini PC">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061426"/><stop offset="0.55" stop-color="#0b2b4d"/><stop offset="1" stop-color="#063a8a"/></linearGradient>
-    <radialGradient id="glow" cx="32%" cy="18%" r="62%"><stop offset="0" stop-color="#9ee6ff" stop-opacity="0.75"/><stop offset="0.45" stop-color="#9ee6ff" stop-opacity="0.2"/><stop offset="1" stop-color="#9ee6ff" stop-opacity="0"/></radialGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="24" stdDeviation="18" flood-color="#000" flood-opacity="0.35"/></filter>
-  </defs>
-  <rect width="900" height="560" rx="44" fill="url(#bg)"/>
-  <rect width="900" height="560" rx="44" fill="url(#glow)"/>
-  <g opacity="0.22" stroke="#9ee6ff" stroke-width="2" fill="none">
-    <path d="M85 402 C196 335 262 427 362 348 S555 237 668 292 809 226 855 148"/>
-    <path d="M65 112 H826"/><path d="M112 76 V486"/><path d="M752 92 V506"/>
-  </g>
-  <g filter="url(#shadow)">
-    <rect x="254" y="126" width="392" height="260" rx="34" fill="#0e2138" stroke="#6bdcff" stroke-opacity="0.42" stroke-width="3"/>
-    <rect x="286" y="158" width="328" height="164" rx="22" fill="#132f4f" stroke="#173f68"/>
-    <text x="450" y="258" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="82">⚡</text>
-    <rect x="214" y="392" width="472" height="34" rx="17" fill="#09192d" stroke="#6bdcff" stroke-opacity="0.28"/>
-  </g>
-  <text x="450" y="474" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="900" fill="#f4f8ff">NPU Mini PC</text>
-  <text x="450" y="512" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#9ee6ff">Burn.Blue gear preview</text>
-</svg>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061426"/><stop offset=".58" stop-color="#0b2b4d"/><stop offset="1" stop-color="#063a8a"/></linearGradient><radialGradient id="glow" cx="36%" cy="18%" r="65%"><stop offset="0" stop-color="#37d7ff" stop-opacity=".72"/><stop offset=".45" stop-color="#37d7ff" stop-opacity=".2"/><stop offset="1" stop-color="#37d7ff" stop-opacity="0"/></radialGradient><filter id="shadow" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#000" flood-opacity=".38"/></filter></defs>
+<rect width="900" height="560" rx="44" fill="url(#bg)"/><rect width="900" height="560" rx="44" fill="url(#glow)"/><g opacity=".2" stroke="#9ee6ff" stroke-width="2" fill="none"><path d="M70 420 C190 320 275 430 385 340 S555 235 690 300 805 230 850 145"/><path d="M70 108H830"/><path d="M120 78V485"/><path d="M760 92V506"/></g><g filter="url(#shadow)"><rect x="286" y="146" width="328" height="230" rx="34" fill="#0a1a2f" stroke="#8ee6ff" stroke-width="5"/><path d="M470 172l-96 128h70l-32 102 116-148h-75z" fill="#ffd66b" stroke="#fff2a9" stroke-width="5"/><circle cx="554" cy="204" r="12" fill="#2dd5ff"/><rect x="326" y="404" width="248" height="22" rx="11" fill="#092036"/></g><text x="450" y="492" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="36" font-weight="900" fill="#f4f8ff">NPU Mini PC</text><text x="450" y="526" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800" fill="#9ee6ff">Burn.Blue gear preview</text></svg>
