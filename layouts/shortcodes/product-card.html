@@ -1,0 +1,20 @@
+{{ $href := .Get "href" }}
+{{ $title := .Get "title" }}
+{{ $badge := .Get "badge" }}
+{{ $icon := .Get "icon" | default "🧰" }}
+{{ $specs := split (.Get "specs") "|" }}
+{{ $good := .Get "good" }}
+{{ $skip := .Get "skip" }}
+<a class="affiliate-product-card" href="{{ $href }}" target="_blank" rel="sponsored noopener">
+  <span class="product-badge">{{ $badge }}</span>
+  <span class="product-visual" aria-hidden="true"><span>{{ $icon }}</span></span>
+  <span class="product-copy">
+    <strong>{{ $title }}</strong>
+    {{ with $good }}<em>{{ . }}</em>{{ end }}
+  </span>
+  <span class="product-specs">
+    {{ range $specs }}{{ if ne . "" }}<span>{{ . }}</span>{{ end }}{{ end }}
+  </span>
+  {{ with $skip }}<span class="product-skip">Skip if: {{ . }}</span>{{ end }}
+  <span class="product-cta">View current options on Amazon →</span>
+</a>

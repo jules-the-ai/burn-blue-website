@@ -1,0 +1,25 @@
+{{ $phrase := .Get "phrase" }}
+{{ $title := .Get "title" | default "Product preview" }}
+{{ $tag := .Get "tag" | default "syzygy01c-20" }}
+<div class="amazon-native-preview" aria-label="Amazon product preview">
+  <div class="amazon-native-head">
+    <span class="product-badge">Amazon product preview</span>
+    <strong>{{ $title }}</strong>
+    <p>This widget is served by Amazon, so products, images, prices, and availability can update without Burn.Blue hardcoding stale goblin math.</p>
+  </div>
+  <noscript><p><a href="https://www.amazon.com/s?k={{ $phrase | urlquery }}&tag={{ $tag }}" target="_blank" rel="sponsored noopener">View {{ $phrase }} on Amazon</a></p></noscript>
+  <script type="text/javascript">
+    amzn_assoc_placement = "adunit0";
+    amzn_assoc_tracking_id = "{{ $tag }}";
+    amzn_assoc_ad_mode = "search";
+    amzn_assoc_ad_type = "smart";
+    amzn_assoc_marketplace = "amazon";
+    amzn_assoc_region = "US";
+    amzn_assoc_default_search_phrase = "{{ $phrase }}";
+    amzn_assoc_default_category = "All";
+    amzn_assoc_linkid = "";
+    amzn_assoc_search_bar = "false";
+    amzn_assoc_title = "{{ $title }}";
+  </script>
+  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>
