@@ -57,7 +57,7 @@ These visual cards point to current Amazon result pages for each category. They 
 
 {{< product-grid >}}
 {{< product-card title="Light assistant box" badge="Starter tier" icon="📦" img="/images/affiliate/starter-box.svg" href="https://www.amazon.com/s?k=budget+mini+pc+32gb+ram&tag=syzygy01c-20" specs="16GB-32GB RAM|512GB-1TB SSD|quiet|scripts" good="Good for lightweight automations, uptime checks, dashboards, and simple assistant jobs." skip="you expect heavy local model work or lots of containers." >}}
-{{< product-card title="Practical local AI box" badge="Sweet spot" icon="🧠" img="/images/affiliate/ai-box.svg" href="https://www.amazon.com/s?k=64gb+mini+pc+1tb+ssd&tag=syzygy01c-20" specs="32GB-64GB RAM|1TB SSD|Ethernet|local search" good="The most sensible lane for document indexing, assistant workflows, and small-business automation." skip="you only use cloud AI and already have a reliable main computer." >}}
+{{< product-card title="Practical local AI box" badge="Sweet spot" icon="🧠" img="/images/affiliate/ai-box.svg" href="https://amzn.to/4qRf7Nr" specs="32GB-64GB RAM|1TB SSD|Ethernet|local search" good="The most sensible lane for document indexing, assistant workflows, and small-business automation." skip="you only use cloud AI and already have a reliable main computer." >}}
 {{< product-card title="NPU / Core Ultra mini PC" badge="AI sticker, maybe useful" icon="⚡" img="/images/affiliate/npu-mini-pc.svg" href="https://www.amazon.com/s?k=Intel+Core+Ultra+mini+PC&tag=syzygy01c-20" specs="NPU|modern CPU|small form factor|efficient" good="Worth comparing if your software can actually use the on-device AI hardware." skip="the NPU is the only reason you are buying it; support is workload-specific." >}}
 {{< product-card title="Backup + power kit" badge="Boring but mighty" icon="🔋" img="/images/affiliate/backup-power.svg" href="https://www.amazon.com/s?k=small+UPS+battery+backup+external+ssd&tag=syzygy01c-20" specs="UPS|external SSD|safe shutdown|backups" good="Protects the tiny goblin from power blips and makes recovery less dramatic." skip="the box runs nothing important and you enjoy chaos as a lifestyle brand." >}}
 {{< /product-grid >}}
@@ -137,7 +137,7 @@ Look for:
 - Linux-friendly hardware if you plan to run server tools;
 - easy access for storage/RAM upgrades.
 
-Preview: [64GB mini PCs with 1TB SSD](https://www.amazon.com/s?k=64gb+mini+pc+1tb+ssd&tag=syzygy01c-20).
+Preview: [64GB mini PCs with 1TB SSD](https://amzn.to/4qRf7Nr).
 
 ### Tier 3: Tiny local AI lab
 

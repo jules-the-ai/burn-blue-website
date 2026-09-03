@@ -43,10 +43,10 @@ Most small businesses are in bucket 1 or 4. Burn.Blue-style automation clients o
 The product cards below are previews of the kind of gear to compare. They point to current Amazon results instead of freezing one possibly-stale model into the article forever. Check the seller page for exact specs before buying; product pages love tiny footnotes and tiny footnotes love ruining your afternoon.
 
 {{< product-grid >}}
-{{< product-card title="32GB business laptop" badge="Best first upgrade" icon="💻" img="/images/affiliate/business-laptop.svg" href="https://www.amazon.com/s?k=business+laptop+32gb+ram+1tb+ssd&tag=syzygy01c-20" specs="32GB RAM|1TB SSD|portable|cloud AI" good="A strong default for owners, operators, consultants, and remote teams using browser-based AI tools." skip="you need an always-on automation box or serious local GPU work." >}}
-{{< product-card title="Always-on mini PC" badge="Quiet office goblin" icon="🧊" img="/images/affiliate/mini-pc.svg" href="https://www.amazon.com/s?k=64gb+mini+pc+1tb+ssd&tag=syzygy01c-20" specs="32GB-64GB RAM|1TB SSD|Ethernet|automation" good="Great for dashboards, scripts, document indexing, and local assistant experiments." skip="you need one portable machine for coffee-shop work." >}}
-{{< product-card title="Creator / AI workstation laptop" badge="Heavier work" icon="🖥️" img="/images/affiliate/workstation-laptop.svg" href="https://www.amazon.com/s?k=creator+laptop+32gb+ram&tag=syzygy01c-20" specs="strong CPU|GPU options|32GB+ RAM|thermals" good="Useful for design, video, dev tools, local AI experiments, and heavy multitasking." skip="your work is email, docs, and web apps; do not buy a rocket sled for a grocery run." >}}
-{{< product-card title="Call-quality upgrade kit" badge="Fix the meeting first" icon="🎙️" img="/images/affiliate/call-kit.svg" href="https://www.amazon.com/s?k=webcam+microphone+lighting+kit+video+calls&tag=syzygy01c-20" specs="webcam|mic|lighting|dock" good="Often the cheapest way to make client work feel more professional immediately." skip="your current calls already look and sound great." >}}
+{{< product-card title="32GB business laptop" badge="Best first upgrade" icon="💻" img="/images/affiliate/business-laptop.svg" href="https://amzn.to/4xFdkxu" specs="32GB RAM|1TB SSD|portable|cloud AI" good="A strong default for owners, operators, consultants, and remote teams using browser-based AI tools." skip="you need an always-on automation box or serious local GPU work." >}}
+{{< product-card title="Always-on mini PC" badge="Quiet office goblin" icon="🧊" img="/images/affiliate/mini-pc.svg" href="https://amzn.to/4qRf7Nr" specs="32GB-64GB RAM|1TB SSD|Ethernet|automation" good="Great for dashboards, scripts, document indexing, and local assistant experiments." skip="you need one portable machine for coffee-shop work." >}}
+{{< product-card title="Creator / AI workstation laptop" badge="Heavier work" icon="🖥️" img="/images/affiliate/workstation-laptop.svg" href="https://amzn.to/4gJAMCj" specs="strong CPU|GPU options|32GB+ RAM|thermals" good="Useful for design, video, dev tools, local AI experiments, and heavy multitasking." skip="your work is email, docs, and web apps; do not buy a rocket sled for a grocery run." >}}
+{{< product-card title="Call-quality upgrade kit" badge="Fix the meeting first" icon="🎙️" img="/images/affiliate/call-kit.svg" href="https://amzn.to/4qQu4PC" specs="webcam|mic|lighting|dock" good="Often the cheapest way to make client work feel more professional immediately." skip="your current calls already look and sound great." >}}
 {{< /product-grid >}}
 
 ## The practical buying order
@@ -63,7 +63,7 @@ Practical guidance:
 - **32GB**: the safer baseline for serious multitasking and AI-assisted work.
 - **64GB+**: useful for development, creative work, local models, larger datasets, or “I refuse to close tabs because they are my emotional support tabs.”
 
-Useful paths: [compare 32GB business laptops](https://www.amazon.com/s?k=32gb+business+laptop&tag=syzygy01c-20) or [compare 64GB mini PCs](https://www.amazon.com/s?k=64gb+mini+pc&tag=syzygy01c-20).
+Useful paths: [compare 32GB business laptops](https://amzn.to/461W4X9) or [compare 64GB mini PCs](https://www.amazon.com/s?k=64gb+mini+pc&tag=syzygy01c-20).
 
 ### 2. Storage: do not run your business from a sad little drive
 
@@ -88,7 +88,7 @@ For small-business buying:
 - care about GPU/VRAM if you specifically plan to run local models or creative AI tools;
 - do not overpay only because the box says AI in the loudest possible font.
 
-Useful paths: [browse AI PC laptops](https://www.amazon.com/s?k=AI+PC+laptop&tag=syzygy01c-20) or [compare creator laptops with 32GB RAM](https://www.amazon.com/s?k=creator+laptop+32gb+ram&tag=syzygy01c-20).
+Useful paths: [browse AI PC laptops](https://www.amazon.com/s?k=AI+PC+laptop&tag=syzygy01c-20) or [compare creator laptops with 32GB RAM](https://amzn.to/4gJAMCj).
 
 ## Recommended setup types
 
@@ -104,7 +104,7 @@ Look for:
 - enough ports or a reliable dock;
 - battery life that does not collapse like a haunted folding chair.
 
-Preview: [business laptop with 32GB RAM and 1TB SSD](https://www.amazon.com/s?k=business+laptop+32gb+ram+1tb+ssd&tag=syzygy01c-20).
+Preview: [business laptop with 32GB RAM and 1TB SSD](https://amzn.to/4xFdkxu).
 
 Who should skip it: people who need an always-on automation box or serious local GPU compute. A laptop can do those things, but it may not be the calmest choice.
 
@@ -121,7 +121,7 @@ Look for:
 - easy access for upgrades;
 - Linux friendliness if you plan to run server-style tools.
 
-Preview: [64GB mini PCs with 1TB SSDs](https://www.amazon.com/s?k=64gb+mini+pc+1tb+ssd&tag=syzygy01c-20).
+Preview: [64GB mini PCs with 1TB SSDs](https://amzn.to/4qRf7Nr).
 
 Who should skip it: people who need one portable machine for everything. A mini PC is more “quiet office goblin” than “coffee shop workhorse.”
 
