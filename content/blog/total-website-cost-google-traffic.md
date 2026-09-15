@@ -8,7 +8,9 @@ kicker: "Website cost"
 tags: ["website cost", "website pricing", "SEO", "small business websites", "Google traffic"]
 ---
 
-If you are asking how much does it cost to create a website, the honest answer depends on what you expect the website to do.
+If you are asking what a website should cost in 2026, the honest answer depends on what you expect the website to do.
+
+This guide focuses on the total cost of a site intended to earn relevant Google traffic. If you are primarily comparing project quotes, start with our [2026 website pricing guide](/blog/website-pricing-2026-how-much-should-a-website-cost/).
 
 A basic online brochure can be cheap. A website that has a real chance of getting traffic from Google usually costs more because it is not just a design project. It needs planning, useful pages, search-friendly structure, technical basics, clear copy, maintenance, and enough content to answer what people are actually searching for.
 
