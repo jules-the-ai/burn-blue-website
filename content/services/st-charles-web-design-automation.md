@@ -1,22 +1,22 @@
 ---
-title: "St. Charles Web Design and Automation"
-seoTitle: "St. Charles MO Web Design & Automation | Burn.Blue"
-description: "Web design, SEO content, AI assistant setup, and automation support for St. Charles, MO businesses that want clearer pages and better lead handling."
-seoDescription: "Burn.Blue provides St. Charles, MO web design, SEO content, AI assistant setup, and business automation for clearer pages and better lead handling."
+title: "St. Charles Web Design, Web Development, and Automation"
+seoTitle: "St. Charles MO Web Design, Development & Automation | Burn.Blue"
+description: "Web design, web development, SEO content, AI assistant setup, and automation for St. Charles, MO businesses that need clearer pages and better lead handling."
+seoDescription: "Burn.Blue provides St. Charles, MO web design, web development, SEO content, AI assistant setup, and business automation for clearer pages and better lead handling."
 icon: "🌉"
 weight: 15
 kicker: "St. Charles service area"
 ---
 
-## Web design and automation for St. Charles businesses
+## St. Charles web design, web development, and automation
 
-A website should help customers understand the service and help the business respond after the click. Burn.Blue supports St. Charles businesses with search-friendly pages, better conversion paths, and practical automation behind the scenes.
+A website should help customers understand the service and help the business respond after the click. Burn.Blue supports St. Charles businesses with search-friendly web design, responsive web development, better conversion paths, and practical automation behind the scenes.
 
-The goal is a digital system: clear pages, useful forms, organized messages, draft replies for review, and follow-up reminders that keep leads from disappearing.
+The goal is a digital system: clear pages, useful forms, organized messages, draft replies for review, and follow-up reminders that keep leads from disappearing. Whether the work is a focused service-site refresh or a larger custom build, the page structure and the lead-handling workflow should support each other.
 
 ### What this can include
 
-- Website redesigns and service-page improvements.
+- Website redesigns, responsive web development, and service-page improvements.
 - Local SEO content for St. Charles and surrounding service areas.
 - AI-assisted lead intake and inbox triage.
 - Booking, form, CRM, email, and reminder workflows.
@@ -28,6 +28,7 @@ The goal is a digital system: clear pages, useful forms, organized messages, dra
 - [Web app development](/services/web-app-development/)
 - [AI assistant setup](/services/ai-assistant-setup/)
 - [Business automation](/services/business-automation/)
+- [Customer message routing](/blog/customer-message-routing-small-business/)
 
 ## St. Charles web design FAQ
 

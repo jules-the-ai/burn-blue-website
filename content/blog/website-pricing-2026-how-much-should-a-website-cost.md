@@ -14,6 +14,8 @@ So here is the practical version: a simple small business website can cost a few
 
 That range is annoyingly wide, but it is real. A five-page service business site is not the same product as a custom ecommerce store, a membership portal, a booking system, or a site connected to your CRM and lead follow-up workflow.
 
+If the specific goal is earning organic traffic, budget beyond the build price too: [the total website cost of Google traffic](/blog/total-website-cost-google-traffic/) includes content, SEO setup, maintenance, and ongoing publishing.
+
 The better question is not only "How much does a website cost?" It is: "What kind of website does this business actually need, what should be included, and what will it cost to keep it useful after launch?"
 
 ## Quick website pricing ranges for 2026

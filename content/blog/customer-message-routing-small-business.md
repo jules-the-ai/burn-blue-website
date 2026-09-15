@@ -1,16 +1,18 @@
 ---
 title: "Customer Message Routing Is the Boring Automation Small Businesses Actually Need"
-seoTitle: "Customer Message Routing for Small Business Leads | Burn.Blue"
+seoTitle: "Message Routing for Small Businesses: Stop Missing Leads | Burn.Blue"
 date: 2026-08-10T08:32:00-05:00
-description: "Customer message routing helps small businesses turn calls, forms, emails, and profile inquiries into clear next steps instead of scattered inbox chaos."
-seoDescription: "Learn how small businesses can use customer message routing to organize calls, forms, email, booking requests, and AI-assisted follow-up without over-automating customer trust."
+description: "Message routing helps small businesses turn calls, forms, emails, and profile inquiries into clear next steps instead of scattered inbox chaos."
+seoDescription: "A practical message routing guide for small businesses: organize calls, forms, email, booking requests, and AI-assisted follow-up without automating away customer trust."
 kicker: "Business automation"
 tags: ["business automation", "AI assistants", "lead intake", "workflow automation", "small business"]
 ---
 
 Most small businesses do not need a dramatic AI transformation first.
 
-They need new customer messages to stop landing in five different places with five different owners and no clear next step.
+They need message routing: a dependable way to make sure a new customer inquiry reaches the right person, with the right context, and a clear next step.
+
+Without it, calls, forms, emails, booking requests, and direct messages land in five different places with five different owners.
 
 A lead might arrive through a website form, a missed call, a direct email, a booking request, a Google profile click, a social DM, a referral text, or an old thread someone replies to three months later. Each channel can technically work. Together, they create a quiet operational mess: one person sees the email, another remembers the phone call, the form notification gets buried, and nobody is sure whether the customer heard back.
 
@@ -180,7 +182,7 @@ Use this checklist before buying another inbox tool or AI receptionist:
 7. Create a follow-up rule so leads do not depend on memory.
 8. Test the workflow from the customer side.
 
-If the website itself is part of the mess, fix the source first: clearer [custom web design](/services/custom-web-design/), better [UX and UI design](/services/ux-ui-design/), stronger [service pages](/services/), and a safer [AI assistant setup](/services/ai-assistant-setup/) can make routing much easier.
+If the website itself is part of the mess, fix the source first: clearer [custom web design](/services/custom-web-design/), better [UX and UI design](/services/ux-ui-design/), stronger [service pages](/services/), and a safer [AI assistant setup](/services/ai-assistant-setup/) can make routing much easier. For the workflow behind those pages, see [business automation](/services/business-automation/).
 
 ## Customer message routing FAQ
 
