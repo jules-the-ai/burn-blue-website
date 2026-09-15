@@ -6,7 +6,7 @@ seoDescription: "Explore Burn.Blue web design, web development, SEO, AI assistan
 weight: 10
 region: "St. Louis, Missouri"
 locationName: "St. Louis, MO"
-image: "/images/locations/st-louis-mo.webp"
+image: "/images/locations/st-louis-mo.png"
 imageAlt: "Original illustrated dusk view of the Gateway Arch and downtown St. Louis skyline"
 ---
 

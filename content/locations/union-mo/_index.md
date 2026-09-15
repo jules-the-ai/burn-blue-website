@@ -6,7 +6,7 @@ seoDescription: "Explore Burn.Blue web design, web development, SEO, AI assistan
 weight: 20
 region: "Union, Missouri"
 locationName: "Union, MO"
-image: "/images/locations/union-mo.webp"
+image: "/images/locations/union-mo.png"
 imageAlt: "Original illustrated golden-hour view of a welcoming Union, Missouri main street"
 ---
 
