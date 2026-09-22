@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ .Site.LanguageCode }}">
 <head>
-  {{ $defaultTitle := cond .IsHome "St. Louis Web Design, SEO & AI Automation Nationwide | Burn.Blue" (printf "%s | Burn.Blue" .Title) }}
+  {{ $defaultTitle := cond .IsHome "Web Design, AI Automation & SEO for Small Businesses | Burn.Blue" (printf "%s | Burn.Blue" .Title) }}
   {{ $seoTitle := .Params.seoTitle | default $defaultTitle }}
   {{ $seoDescription := .Params.seoDescription | default .Description | default .Site.Params.description }}
   {{ $socialImage := "og-image.png" | absURL }}

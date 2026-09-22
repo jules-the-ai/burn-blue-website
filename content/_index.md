@@ -1,6 +1,6 @@
 ---
 title: "Burn.Blue"
-seoTitle: "Burn.Blue | St. Louis Web Design, SEO & AI Automation"
-description: "Burn.Blue is a St. Louis web design, SEO, AI assistant setup, and business automation studio for small businesses that want more leads and calmer workflows."
-seoDescription: "Burn.Blue provides St. Louis web design, SEO content, AI assistant setup, and business automation for small businesses that need more qualified leads and less busywork."
+seoTitle: "Burn.Blue | Web Design, AI Automation & SEO for Small Businesses"
+description: "Burn.Blue builds fast small-business websites, practical AI automations, and SEO systems that turn more visitors into conversations and leads."
+seoDescription: "Burn.Blue builds fast small-business websites, practical AI automations, and SEO systems that turn visitors into conversations and leads."
 ---

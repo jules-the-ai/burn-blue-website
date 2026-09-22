@@ -1,9 +1,9 @@
 ---
-title: "Total Website Cost: What It Really Takes to Build a Site That Can Get Google Traffic"
-seoTitle: "Total Website Cost for Google Traffic: What to Budget | Burn.Blue"
+title: "What Should a Website Cost in 2026? The Total Cost of a Site That Can Earn Google Traffic"
+seoTitle: "What Should a Website Cost in 2026? | Burn.Blue"
 date: 2026-07-14T07:50:00-05:00
 description: "A practical guide to the total cost of creating a website that can earn Google traffic, including strategy, pages, content, SEO basics, hosting, maintenance, and realistic budget ranges."
-seoDescription: "How much does it cost to create a website that can get traffic from Google? See realistic total website cost ranges, hidden expenses, SEO content needs, and budget examples for small businesses."
+seoDescription: "What should a website cost in 2026? See realistic small-business budget ranges, what is included, ongoing costs, and what it takes to earn Google traffic."
 kicker: "Website cost"
 tags: ["website cost", "website pricing", "SEO", "small business websites", "Google traffic"]
 ---
@@ -16,7 +16,11 @@ A basic online brochure can be cheap. A website that has a real chance of gettin
 
 That does not mean every small business needs a giant agency budget. It does mean the total website cost should include more than the homepage.
 
-## Quick answer: what does a traffic-ready website cost?
+## Quick answer: what should a website cost in 2026?
+
+If you are looking for a number you can use in a real budget conversation, start here: a professional small-business site that includes strategy, clear service pages, copy, launch checks, and a maintainable foundation often starts around **$5,000-$12,000**. A simpler credibility site can cost less; a site built to compete for ongoing search demand can cost more.
+
+## What does a traffic-ready website cost?
 
 For a small business trying to build a website that can earn Google traffic, these are realistic planning ranges:
 
@@ -241,6 +245,6 @@ For a small business, a very lean site might cost under $1,000, but a profession
 
 Google traffic is not bought directly. It is earned through useful pages, technical clarity, and consistent maintenance.
 
-Burn.Blue builds practical websites for small businesses that need more than a pretty homepage: clear service pages, fast architecture, search-aware content, contact workflows, analytics, and maintainable systems that can grow after launch.
+Burn.Blue builds practical websites for small businesses that need more than a pretty homepage: clear service pages, fast architecture, search-aware content, contact workflows, analytics, and maintainable systems that can grow after launch. See [custom web design](/services/custom-web-design/), [simple business websites](/services/simple-business-websites/), and [website maintenance](/services/website-maintenance/) for the service paths behind those decisions.
 
 If you are trying to budget the total cost of a website, [send us the rough scope](/#contact). We can help separate the must-haves from the nice-to-haves and shape a build that gives Google, and your customers, something useful to find.
