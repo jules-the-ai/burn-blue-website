@@ -4,6 +4,7 @@ seoTitle: "Message Routing for Small Businesses: Stop Missing Leads | Burn.Blue"
 date: 2026-08-10T08:32:00-05:00
 description: "Message routing helps small businesses turn calls, forms, emails, and profile inquiries into clear next steps instead of scattered inbox chaos."
 seoDescription: "A practical message routing guide for small businesses: organize calls, forms, email, booking requests, and AI-assisted follow-up without automating away customer trust."
+lastmod: 2026-10-05T09:25:00-05:00
 kicker: "Business automation"
 tags: ["business automation", "AI assistants", "lead intake", "workflow automation", "small business"]
 ---
@@ -203,6 +204,6 @@ Customers get clearer expectations. Owners see what needs attention. Staff know 
 
 That is the practical automation layer many small businesses need before they chase bigger AI tools.
 
-Burn.Blue helps small businesses build that layer: cleaner websites, better intake forms, message routing, AI-assisted summaries, safer draft replies, and follow-up workflows that keep humans in charge of the promises.
+Burn.Blue helps small businesses build that layer: cleaner websites, better intake forms, message routing, AI-assisted summaries, safer draft replies, and follow-up workflows that keep humans in charge of the promises. If the site and handoff need to improve together, see [St. Charles web design and automation](/services/st-charles-web-design-automation/) or [business automation](/services/business-automation/).
 
 If customer messages are scattered across calls, forms, email, and forgotten threads, [start a project with Burn.Blue](/#contact). We can help turn the mess into a calmer system.

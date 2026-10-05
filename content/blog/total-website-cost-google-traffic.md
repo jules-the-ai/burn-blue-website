@@ -1,7 +1,8 @@
 ---
 title: "What Should a Website Cost in 2026? The Total Cost of a Site That Can Earn Google Traffic"
-seoTitle: "What Should a Website Cost in 2026? | Burn.Blue"
+seoTitle: "Website Cost in 2026: Small-Business Budget Guide | Burn.Blue"
 date: 2026-07-14T07:50:00-05:00
+lastmod: 2026-10-05T09:25:00-05:00
 description: "A practical guide to the total cost of creating a website that can earn Google traffic, including strategy, pages, content, SEO basics, hosting, maintenance, and realistic budget ranges."
 seoDescription: "What should a website cost in 2026? See realistic small-business budget ranges, what is included, ongoing costs, and what it takes to earn Google traffic."
 kicker: "Website cost"
@@ -15,6 +16,8 @@ This guide focuses on the total cost of a site intended to earn relevant Google 
 A basic online brochure can be cheap. A website that has a real chance of getting traffic from Google usually costs more because it is not just a design project. It needs planning, useful pages, search-friendly structure, technical basics, clear copy, maintenance, and enough content to answer what people are actually searching for.
 
 That does not mean every small business needs a giant agency budget. It does mean the total website cost should include more than the homepage.
+
+If you are comparing a real project, [Burn.Blue can map the pages, lead path, and maintenance work that belong in the scope](/#contact) before you compare numbers that may not include the same things.
 
 ## Quick answer: what should a website cost in 2026?
 

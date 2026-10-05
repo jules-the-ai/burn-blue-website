@@ -1,7 +1,8 @@
 ---
 title: "Google Can Call Your Business for Customers. Is Your Workflow Ready?"
-seoTitle: "Google Automated Calls and Small Business Booking | Burn.Blue"
+seoTitle: "Google Automated Calls: Small-Business Booking Guide | Burn.Blue"
 date: 2026-07-27T08:20:00-05:00
+lastmod: 2026-10-05T09:25:00-05:00
 description: "Google can use automated calls to help customers book appointments and confirm service details. Small businesses need clear booking links, phone scripts, service pages, and human-reviewed workflows before those calls happen."
 seoDescription: "A practical guide for small businesses preparing for Google automated calls, booking links, appointment workflows, service details, and AI-assisted lead intake."
 kicker: "AI assistants"
@@ -193,7 +194,7 @@ The point is not to chase every new Google feature. The point is to make your bu
 | Follow-up workflow | Confirmation that the request was received | Route the request to email, calendar, CRM, or a shared task list |
 | AI assistant support | Faster review without risky promises | Summarize intake, flag missing details, and draft replies for human approval |
 
-Burn.Blue can help connect the public-facing pieces — [service pages](/services/), [custom web design](/services/custom-web-design/), and [AI assistant setup](/services/ai-assistant-setup/) — to the operational pieces like [business automation](/services/business-automation/) and [website maintenance](/services/website-maintenance/).
+Burn.Blue can help connect the public-facing pieces — [service pages](/services/), [custom web design](/services/custom-web-design/), and [AI assistant setup](/services/ai-assistant-setup/) — to the operational pieces like [business automation](/services/business-automation/) and [website maintenance](/services/website-maintenance/). For St. Charles businesses, the [web design and automation service](/services/st-charles-web-design-automation/) connects those same public pages to the lead handoff behind them.
 
 ## Google automated calls FAQ
 

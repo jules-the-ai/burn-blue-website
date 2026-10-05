@@ -1,8 +1,8 @@
 ---
 title: "Best Mini PCs for Local AI Assistants: Tiny Desk Goblins, Useful Edition"
-seoTitle: "Best Mini PCs for Local AI Assistants | Burn.Blue"
+seoTitle: "Best Mini PCs for Local AI Assistants: 2026 Guide | Burn.Blue"
 date: 2026-09-02T10:52:00-05:00
-lastmod: 2026-09-02T11:14:00-05:00
+lastmod: 2026-10-05T09:25:00-05:00
 description: "A practical guide to choosing mini PCs for local AI assistants, automation boxes, dashboards, document search, and small-business workflows."
 seoDescription: "Choose a mini PC for local AI assistants: RAM, storage, Linux support, thermals, backups, NPU/GPU expectations, and practical always-on automation workflows."
 kicker: "AI gear"
@@ -167,7 +167,7 @@ Common local assistant jobs:
 - backup verification;
 - development sandbox for scripts before they touch live systems.
 
-If you use a Hermes-style assistant workflow, a mini PC or small server can be a nice place to run background jobs, local tools, and recurring automations. The key is scope: give the assistant boring, bounded tasks before granting it the keys to the forklift.
+If you use a Hermes-style assistant workflow, a mini PC or small server can be a nice place to run background jobs, local tools, and recurring automations. The key is scope: give the assistant boring, bounded tasks before granting it the keys to the forklift. If you need help deciding what belongs on the box, [Burn.Blue’s AI assistant setup service](/services/ai-assistant-setup/) starts with the workflow, access boundaries, and human approval rules—not hardware hype.
 
 ## Accessories worth considering
 
